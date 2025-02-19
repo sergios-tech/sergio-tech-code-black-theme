@@ -1,0 +1,38 @@
+{
+  "name": "black-sergio-tech",
+  "displayName": "Sergio's Tech Code Black",
+  "description": "Dark Theme designed by Sergio Jovanotti",
+  "version": "0.1.1",
+  "publisher": "SergiosTech",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "black",
+    "sergio tech",
+    "dark"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sergio's Tech Code Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black-Sergio-Tech-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergios-tech/sergio-tech-code-black-theme.git"
+  }
+}
