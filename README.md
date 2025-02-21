@@ -1,6 +1,7 @@
 # Sergio's Tech Code Black Theme
 
 A dark theme for Visual Studio Code designed by Sergio Jovanotti. This theme features a sophisticated black color scheme that enhances code readability and reduces eye strain during long coding sessions.
+Please visit [Sergio's Tech Website](https://www.sergios.tech/Home.html) for more information.
 
 ## Features
 - Dark theme optimized for Visual Studio Code
