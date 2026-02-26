@@ -17,7 +17,7 @@ Please visit [Sergio's Tech Website](https://www.sergios.tech/Home.html) for mor
 
 ## Repository Information
 - Theme Name: Sergio's Tech Code Black
-- Version: 0.1.3
+- Version: 1.0.0
 - Category: Themes
 - License: See LICENSE file
 - GitHub: [sergios-tech/sergio-tech-code-black-theme](https://github.com/sergios-tech/sergio-tech-code-black-theme)
