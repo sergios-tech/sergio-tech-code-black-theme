@@ -42,7 +42,7 @@
 		"statusBar.debuggingBackground": "#ff0000",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#000000",
-		"statusBarItem.remoteBackground": "#159e00",
+		"statusBarItem.remoteBackground": "#000000",
 		"statusBarItem.remoteForeground": "#ffffff",
 		"tab.activeBackground": "#000000",
 		"tab.activeBorder": "#000000",
