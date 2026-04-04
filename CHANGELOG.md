@@ -4,6 +4,33 @@ All notable changes to the "black-sergio-tech" extension will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.3] - 2026-04-04
+
+### Changed
+
+- **Full brand rebrand**: All UI accent colors migrated from blue (#007fd4 family) to red/orange/gold brand palette matching the Sergio's Tech logo
+- Primary accent borders/focus: `#007fd4` → `#e07020` (warm orange)
+- Buttons: `#0e639c` → `#b84a10` (deep orange)
+- Selection backgrounds: `#04395e` → `#3d1a08` (dark warm red-brown)
+- Info/links foreground: `#3794ff` → `#ff8c38` (bright orange)
+- Symbol icons: `#75beff` → `#ffb870` (light peachy-orange)
+- OLED-dimmed static borders adjusted to `#a05015` (burnt orange)
+- Git modified indicators: `#1b81a8` → `#c07018` (warm amber-orange)
+- Tab modified borders: `#3399cc` → `#cc7730` (brand orange)
+
+### Fixed
+
+- Terminal ANSI blue readability: `#2472c8` → `#3b8eea` (contrast ~5.5:1 on black)
+- Terminal ANSI red readability: `#cd3131` → `#f14c4c` (contrast ~5.2:1 on black)
+- `terminalCommandDecoration.successBackground` corrected from blue/orange to green `#2e825c` for semantic consistency
+- Removed deprecated `editorIndentGuide.activeBackground` and `editorIndentGuide.background` (numbered variants retained)
+
+### Unchanged (by design)
+
+- Terminal ANSI standard colors, bracket pair colorization, merge conflict incoming (blue), `charts.blue`, all tokenColors syntax highlighting
+- Error (#f14c4c), warning (#cca700), and success (#73c991) status colors
+- OLED burn-in dimming on static elements (`#e0e0e0` foregrounds, `#a05015` borders)
+
 ## [1.0.2] - 2025-08-08
 
 ### Added
