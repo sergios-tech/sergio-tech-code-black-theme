@@ -2,7 +2,7 @@
   "name": "black-sergio-tech",
   "displayName": "Sergio's Tech Code in Black (OLED Theme)",
   "description": "OLED-friendly dark theme for Visual Studio Code, designed by Sergio Jovanotti",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "SergiosTech",
   "engines": {
     "vscode": "^1.88.0"

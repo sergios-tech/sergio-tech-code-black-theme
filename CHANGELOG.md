@@ -4,7 +4,26 @@ All notable changes to the "black-sergio-tech" extension will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
-## [1.0.1] - 2026-04-04
+## [1.0.2] - 2025-08-08
+
+### Added
+
+- Full coverage for modern VS Code UI tokens: chat/Copilot, command center, inline edit, terminal ANSI colors, testing, and notebooks
+- Activated ~900 previously commented-out color tokens for complete theme coverage
+
+### Fixed
+
+- `header` scope foreground changed from invisible `#000080` to readable `#3794ff`
+- Peek view backgrounds changed from `#001a1a` (teal tint) to `#000000` (true OLED black)
+- Added missing newline at end of theme file
+
+### Changed
+
+- `editor.selectionBackground` from bright `#007acc` to subtle `#04395e` for a more OLED-appropriate look
+- `editorGroup.border` from invisible `#000000` to visible `#333333`
+- `activityBarBadge.background` from `#000000` to `#007acc` for visible notification badges
+
+## [1.0.1] - 2025-04-04
 
 ### Changed
 
