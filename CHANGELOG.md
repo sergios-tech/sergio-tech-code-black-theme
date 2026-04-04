@@ -4,6 +4,13 @@ All notable changes to the "black-sergio-tech" extension will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.4] - 2026-04-04
+
+### Fixed
+
+- Removed visible `#333333` border rectangles on 38 UI elements (panels, sidebar, editor groups, tabs, terminal, notifications) by setting them to `#000000` for a seamless OLED black look
+- Fixed toolbar and Chat button color inconsistency: toned down `commandCenter.activeBorder` to `#a05015`, made `toolbar.hoverOutline` transparent, and unified hover/active backgrounds to `#1a1a1a`
+
 ## [1.0.3] - 2026-04-04
 
 ### Changed
