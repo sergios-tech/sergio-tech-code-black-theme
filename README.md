@@ -1,6 +1,6 @@
-# Sergio's Tech Code Black Theme
+# Sergio's Tech Code in Black (OLED Theme)
 
-A dark theme for Visual Studio Code designed by Sergio Jovanotti. This theme features a sophisticated black color scheme that enhances code readability and reduces eye strain during long coding sessions.
+A dark theme for Visual Studio Code designed by Sergio Jovanotti. This theme features a sophisticated black color scheme suited for OLED displays; it enhances code readability and reduces eye strain during long coding sessions.
 Please visit [Sergio's Tech Website](https://www.sergios.tech/Home.html) for more information.
 
 ## Features
@@ -12,12 +12,12 @@ Please visit [Sergio's Tech Website](https://www.sergios.tech/Home.html) for mor
 ## Installation
 1. Open Visual Studio Code
 2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Sergio's Tech Code Black"
+3. Search for "Sergio's Tech Code in Black (OLED Theme)"
 4. Click Install
 
 ## Repository Information
-- Theme Name: Sergio's Tech Code Black
-- Version: 1.0.0
+- Theme Name: Sergio's Tech Code in Black (OLED Theme)
+- Version: 1.0.1
 - Category: Themes
 - License: See LICENSE file
 - GitHub: [sergios-tech/sergio-tech-code-black-theme](https://github.com/sergios-tech/sergio-tech-code-black-theme)

@@ -4,6 +4,12 @@ All notable changes to the "black-sergio-tech" extension will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.1] - 2026-04-04
+
+### Changed
+
+- Extension and theme display name from "Sergio's Tech Code Black" to "Sergio's Tech Code in Black (OLED Theme)"
+
 ## [1.0.0] - 2026-02-26
 
 ### Changed
