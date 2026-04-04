@@ -4,6 +4,17 @@ All notable changes to the "black-sergio-tech" extension will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.5] - 2026-04-04
+
+### Fixed
+
+- Removed visible focus border rectangles on 13 UI elements (`focusBorder`, `contrastActiveBorder`, `list.focusOutline`, `list.focusAndSelectionOutline`, `list.inactiveFocusOutline`, `list.filterMatchBorder`, `inputOption.activeBorder`, `commandCenter.activeBorder`, `settings.focusedRowBorder`, `checkbox.selectBorder`, `statusBar.focusBorder`, `statusBarItem.focusBorder`, `inlineChatInput.focusBorder`) by setting them to transparent for a seamless look matching the default theme
+
+### Changed
+
+- Dimmed inactive activity bar icons from `#999999` to `#808080` for a subtler sidebar appearance
+- Dimmed status bar foreground from `#cccccc` to `#b3b3b3` for reduced visual prominence
+
 ## [1.0.4] - 2026-04-04
 
 ### Fixed
